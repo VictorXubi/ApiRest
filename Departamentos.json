@@ -1,0 +1,40 @@
+{
+    "codigo": "CON",
+    "descripcion": "Departamento de contabilidad",
+    "volumen": 58000
+}
+{
+    "codigo": "MAT",
+    "descripcion": "Departamento de matematicas",
+    "volumen": 89000
+}
+{
+    "codigo": "INF",
+    "descripcion": "Departamento de informatica",
+    "volumen": 0
+}
+{
+    "codigo": "GAT",
+    "descripcion": "Departamento de gatos",
+    "volumen": 100000
+}
+{
+    "codigo": "PAQ",
+    "descripcion": "Departamento de paqueteria",
+    "volumen": 63
+}
+{
+    "codigo": "COR",
+    "descripcion": "Departamento de correos",
+    "volumen": 7856920
+}
+{
+    "codigo": "FIS",
+    "descripcion": "Departamento de fisica",
+    "volumen": 580000
+}
+{
+    "codigo": "COL",
+    "descripcion": "Departamento de columnas",
+    "volumen": 8
+}
